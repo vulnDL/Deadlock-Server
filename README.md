@@ -15,6 +15,7 @@ So far I've gave it to the NA tourney and the Blast1x 10k EU tourney that happen
 
 1.) Replace with what's inside of citadel_server.cfg
 2.) Reboot, enjoy.
-------------------------------------
+
 
 Also, since I've been using this for a while, and have gave it to a couple people. DatHost has just added it to their initial server setup, ur welcome
+--------------------------------
