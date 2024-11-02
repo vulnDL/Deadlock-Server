@@ -1,3 +1,7 @@
+[UPDATE] Has now been added to DatHost's server cfg on any new server instance.
+--------------------------------
+
+
 People have been having issues with crashing on their community servers.
 
 I've been using this cfg I created to fix the issues. 
@@ -17,5 +21,3 @@ So far I've gave it to the NA tourney and the Blast1x 10k EU tourney that happen
 2.) Reboot, enjoy.
 
 
-Also, since I've been using this for a while, and have gave it to a couple people. DatHost has just added it to their initial server setup, ur welcome
---------------------------------
